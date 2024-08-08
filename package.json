@@ -1,0 +1,26 @@
+{
+    "name": "jsfuzzymind",
+    "version": "1.0.0",
+    "main": "index.js",
+    "exports": {
+        "import": "./index.js",
+        "require": "./index.cjs"
+    },
+    "keywords": [
+        "fuzzy",
+        "logic",
+        "fuzzy logic",
+        "fuzzy set",
+        "fuzzy rule",
+        "inference engine",
+        "javascript"
+    ],
+    "author": "fadedreams7",
+    "license": "MIT",
+    "description": "A JavaScript library for fuzzy logic operations including fuzzy sets, fuzzy rules, and an inference engine.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadedreams/jssafecircuit"
+    },
+    "homepage": "https://github.com/fadedreams/jseventhub"
+}
